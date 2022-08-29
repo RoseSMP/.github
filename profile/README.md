@@ -1,3 +1,5 @@
+![RoseSMP Network Logo](https://raw.githubusercontent.com/RoseSMP/wiki/main/src/Rose-fixedsize.svg)
+
 # The RoseSMP Network
 
 Welcome! The RoseSMP Network is a group of people having fun on the internet. We mostly play minecraft. 
