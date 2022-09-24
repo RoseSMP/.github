@@ -9,9 +9,10 @@ Welcome! The RoseSMP Network is a group of people having fun on the internet. We
 
 ### Projects
 
- - [wiki](https://github.com/RoseSMP/wiki): the wiki for our minecraft server, made with github pages and Jekyll
  - [clean](https://github.com/RoseSMP/clean): a modern jekyll theme used on the wiki
 
+ - ~~[wiki](https://github.com/RoseSMP/wiki): the wiki for our minecraft server, made with github pages and Jekyll~~
+    - Now we're using MediaWiki for our wiki. See it [here](https://newwiki.luminamc.com/)
 
 ### Members
 
