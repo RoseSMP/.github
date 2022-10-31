@@ -1,4 +1,4 @@
-<center>![RoseSMP Network Logo](https://raw.githubusercontent.com/RoseSMP/wiki/main/src/Rose-fixedsize.svg)</center>
+![RoseSMP Network Logo](https://raw.githubusercontent.com/RoseSMP/wiki/main/src/Rose-fixedsize.svg#center)
 
 # The RoseSMP Network
 
