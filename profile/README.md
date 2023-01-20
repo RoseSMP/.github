@@ -19,3 +19,4 @@ Welcome! The RoseSMP Network is a group of people having fun on the internet. We
  - Owner: [@fizzrepo](https://github.com/fizzrepo)
  - Members:
     - [@TheKrafter](https://github.com/TheKrafter)
+    - [@InstallHappiness](https://github.com/InstallHappiness)
