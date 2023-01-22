@@ -2,9 +2,7 @@
 
 # The RoseSMP Network
 
-Welcome! The RoseSMP Network is a group of people having fun on the internet. We mostly play minecraft. The server offers a variety of features, including an economy system, custom plugins, and a dedicated team of staff to help players with any issues that may arise. Whether you're an experienced survival player or new to the game, RoseSMP is a great place to enjoy all that Minecraft has to offer.
-
-[Join the Discord!](https://discord.gg/rosesmp)
+Welcome! The RoseSMP Network is a group of people having fun on the internet. We mostly play minecraft. The server offers a variety of features, including an economy system, custom plugins, and a dedicated team of staff to help players with any issues that may arise. Whether you're an experienced survival player or new to the game, RoseSMP is a great place to enjoy all that Minecraft has to offer. [Join the Discord!](https://discord.gg/rosesmp)
 
 ### Projects
 
