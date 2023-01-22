@@ -2,21 +2,18 @@
 
 # The RoseSMP Network
 
-Welcome! The RoseSMP Network is a group of people having fun on the internet. We mostly play minecraft. 
+Welcome! The RoseSMP Network is a group of people having fun on the internet. We mostly play minecraft. The server offers a variety of features, including an economy system, custom plugins, and a dedicated team of staff to help players with any issues that may arise. Whether you're an experienced survival player or new to the game, RoseSMP is a great place to enjoy all that Minecraft has to offer.
 
-[Join the Discord!](https://discord.gg/cupzHvHSqP)
-
+[Join the Discord!](https://discord.gg/rosesmp)
 
 ### Projects
 
- - [clean](https://github.com/RoseSMP/clean): a modern jekyll theme used on the wiki
-
- - ~~[wiki](https://github.com/RoseSMP/wiki): the wiki for our minecraft server, made with github pages and Jekyll~~
-    - Now we're using MediaWiki for our wiki. See it [here](https://newwiki.luminamc.com/)
+ - [clean](https://github.com/RoseSMP/clean): a modern jekyll theme used on the old wiki
+ - [cogs](https://github.com/RoseSMP/cogs): Open source modules for Rosebot v3, created for rosecord
 
 ### Members
 
- - Owner: [@fizzrepo](https://github.com/fizzrepo)
- - Members:
+ - **Owner**: [@fizzrepo](https://github.com/fizzrepo)
+ - **Members**:
     - [@TheKrafter](https://github.com/TheKrafter)
     - [@InstallHappiness](https://github.com/InstallHappiness)
